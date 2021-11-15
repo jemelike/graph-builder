@@ -1,0 +1,15 @@
+{
+    "~id":"",
+    "track_name:String":"",
+    "duration_ms:Int":-1,
+    "album_name:String":"",
+    "artist_name:String":"",
+    "name:String":"",
+    "modified_at:Int":-1,
+    "num_albums:Int":-1,
+    "num_tracks:Int":-1,
+    "num_followers:Int":-1,
+    "num_edits:Int":-1,
+    "num_artists:Int":-1,
+    "~label":""
+}
