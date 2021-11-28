@@ -1,0 +1,5 @@
+~id, name:String, age:Int, lang:String, interests:String[], ~label
+v1, "marko", 29, , "sailing;graphs", person
+v2, "lop", , "java", , software
+v3, "joe", 30, , "coding;ai/ml", person
+v4, "django", , "python", , software
